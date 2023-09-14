@@ -46,7 +46,6 @@
 }
 
 .header__address {
-  justify-self: start;
   justify-self: end;
 }
 
@@ -95,8 +94,8 @@
 .cover__description {
   display: flex;
   justify-content: end;
-  margin-top: 125px;
   gap: 70px;
+  margin-top: 125px;
 
 }
 
@@ -203,8 +202,8 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(2, 1fr);
-  margin-bottom: 180px;
   gap: 10px;
+  margin-bottom: 180px;
 }
 
 .logo-column {
@@ -261,16 +260,10 @@
 
 .about__text-item {
   color: #000;
-  color: #000;
-  font-family: Raleway;
   font-family: Raleway;
   font-weight: 400;
-  font-weight: 400;
-  font-size: 20px;
   font-size: 20px;
   font-style: normal;
-  font-style: normal;
-  line-height: normal;
   line-height: normal;
 }
 
@@ -291,9 +284,9 @@
 
 .footer__menu-list {
   display: flex;
-  list-style: none;
   flex-direction: column;
-  align-items: center;  
+  align-items: center;
+  list-style: none;
 }
 
 .footer__menu-link {
@@ -305,10 +298,10 @@
   display: flex;
   justify-self: end;
   justify-content: space-between;
+  gap: 8px;
   width: 250px;
   height: 48px;
   list-style: none;
-  gap: 8px;
 }
 
 .footer__social-list-item {
