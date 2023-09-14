@@ -1,1 +1,1 @@
-https://github.com/zincbayz/ono-tebe-nado
+https://github.com/zincbayz/ono-tebe-nado.git
